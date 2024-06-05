@@ -1,5 +1,6 @@
 from django.contrib import admin
 from django.urls import path
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 from medion.views import indexFuncion, indexFuncion2, page2, page3, page4, page5, page6
 
 urlpatterns = [
