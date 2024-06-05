@@ -13,4 +13,5 @@ urlpatterns = [
     path('index/contactanos',page6),
     path('index/index.html',indexFuncion2),
 ]
- 
+
+urlpatterns += staticfiles_urlpatterns()
