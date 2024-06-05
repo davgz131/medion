@@ -105,6 +105,7 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 STATICFILES_DIRS = 'C:/Users/davgz/OneDrive/Escritorio/proyecto1/medion/medion/static',
+MEDIA_URL = 'static/'
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
