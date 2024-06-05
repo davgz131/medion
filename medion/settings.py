@@ -103,7 +103,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
-STATIC_URL = 'medion/medion/static/'
+STATIC_URL = 'https://github.com/davgz131/medion/tree/3ad08c9e17e1a33828e620385922e15c79631697/medion/static'
 STATICFILES_DIRS = 'C:/Users/davgz/OneDrive/Escritorio/proyecto1/medion/medion/static',
 # MEDIA_URL = 'static/'
 # Default primary key field type
