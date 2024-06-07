@@ -15,7 +15,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
                     'medion-d23f.onrender.com',
-                    'https://github.com/', 
+                    'https://github.com/',
+                    'dramaritza.onrender.com'
                 ]
 
 
