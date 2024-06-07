@@ -44,6 +44,11 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'medion.urls'
 
+CORS_ORIGIN_WHITELIST = [
+    'http://github.com',
+    'https://github.com',
+    ]
+
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
